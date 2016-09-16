@@ -1,0 +1,6 @@
+c:\users\levyhnunes\documents\visual studio 2015\Projects\SincronizadorLocal\SincronizadorLocal\bin\Release\SincronizadorLocal.exe.config
+c:\users\levyhnunes\documents\visual studio 2015\Projects\SincronizadorLocal\SincronizadorLocal\obj\Release\SincronizadorLocal.csprojResolveAssemblyReference.cache
+c:\users\levyhnunes\documents\visual studio 2015\Projects\SincronizadorLocal\SincronizadorLocal\bin\Release\SincronizadorLocal.exe
+c:\users\levyhnunes\documents\visual studio 2015\Projects\SincronizadorLocal\SincronizadorLocal\bin\Release\SincronizadorLocal.pdb
+c:\users\levyhnunes\documents\visual studio 2015\Projects\SincronizadorLocal\SincronizadorLocal\obj\Release\SincronizadorLocal.exe
+c:\users\levyhnunes\documents\visual studio 2015\Projects\SincronizadorLocal\SincronizadorLocal\obj\Release\SincronizadorLocal.pdb
